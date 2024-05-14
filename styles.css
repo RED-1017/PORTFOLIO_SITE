@@ -1,0 +1,46 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+    font-size: 15px;
+    
+}
+
+header, section, footer {
+    text-align: center;
+    padding: 20px;
+}
+
+header {
+    background-color: rgb(145, 0, 0);
+    color: rgb(0, 0, 0);
+}
+
+header h1 {
+    margin: 0;
+}
+
+section{
+    padding: 20px;
+    
+
+}
+
+.project {
+    background-color: #fff;
+    margin: 20px auto;
+    width: 90%;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.project img {
+    width: 50%;
+    height: auto;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+}
